@@ -1,4 +1,8 @@
 import random
+print('RULES : ')
+print(' 1. Enter A Random Number Between 1 and 5.')
+print('2. The Computer Will Return A Random Number In Return')
+print('3. If The Number Picked By You And The Computer Are Equal, The Game Ends . Otherwise The Number Picked By You Is Added To The Score \n')
 score=0
 while 1 :
     i=int( input() )
