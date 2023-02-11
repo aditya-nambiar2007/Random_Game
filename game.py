@@ -11,10 +11,10 @@ while 1 :
     if 0<i<6 :
         print(str(rand) + '\n')
         if i==rand:
-            print('->GAME OVER \n SCORE : '+ str(score) + "\n")
+            print('->GAME OVER \n  SCORE : '+ str(score) + "\n")
             break
         else :
             score+=i
-            print('  SCORE : '+ str(score) +"\n")
+            print('> SCORE : '+ str(score) +"\n")
     else:
         print('Invalid Number. Number must be an integer between 1 and 5 \n')  
