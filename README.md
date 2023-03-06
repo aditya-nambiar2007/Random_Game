@@ -1,2 +1,2 @@
 # Python-Game
-Click The **game.bat** for runing the program (*Windows*).
+Click The **.py or .cpp** for runing the program (*Windows*).
